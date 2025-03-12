@@ -213,7 +213,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shellSprite: {fileID: 21300000, guid: 0109c4b241d57394e8ba00057f6648fb, type: 3}
   shellSpeed: 12
-  angrySound: {fileID: 8300000, guid: 653afe2c4adf1b741b9d3fe4e594f138, type: 3}
+  angrySound: {fileID: 8300000, guid: 4e9c8e1703ee2de41a8e698569ca6d5e, type: 3}
 --- !u!114 &6975649263365620464
 MonoBehaviour:
   m_ObjectHideFlags: 0
